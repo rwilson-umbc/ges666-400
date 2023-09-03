@@ -14,6 +14,13 @@ Office Hours: By Appointment
 
 Classroom Location and meeting times are [listed online](https://classes.usc.edu/)
 
+# Teaching Assistant Info
+
+[Jpe Gallagher ]([https://geoffboeing.com](https://professionalprograms.umbc.edu/geographic-information-systems/gis-faculty/))
+
+Email: joesphg3@umbc.edu
+
+Office Hours: By Appointment
 
 
 # Course Description
