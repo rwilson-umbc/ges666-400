@@ -25,7 +25,16 @@ Office Hours: By Appointment
 
 # Course Description
 
-This course provides you with a modern toolkit and skills for urban data science, covering both professional and scholarly use cases. It teaches coding for spatial analysis, network analysis, spatial models, and applied machine learning. The course takes a computational social science approach to working with data. It uses Python and Jupyter notebooks to introduce coding and statistical methods that you can reproduce and experiment with in real-time in the classroom.
+This course employs a variety of mapping tools to develop a student's ability to critically approach cartographic production. A methodological approach will be taken that ranges from the selection and preparation of data to the choice of map representation in the final visualization product. Students are introduced to the latest version of ArcGIS/ArcGIS Pro and R/R-Studio, but the course is primary about creating and evaluating maps and less about developing skills in R and ArcGIS. 
+
+Following the principles of scientific method, students will systematically analyze, interrogate, and reflect on how each stage of the cartographic process impacts the final product from the decisions they make during the process. Tangentially, this activity will also foster a student's ability to assess other maps students encounter from a variety of sources. By the end of the course, students will gain the ability to assess a cartographic product for its level of accuracy and quality in communicating what it intends to convey.  
+
+This course will illustrate the principles of “graphical excellence” so that students develop the skills to produce superior visual products. Following these principles, critical thought is extended beyond what is taught in regard to the content of the map, but also on quality of the map a professional product of publication-quality. As part of the cartographic production process, these skills are essential to creation of successful cartographic products. 
+
+This class is not about the simple assembly of a map and supporting elements. Nor is this class simply about how to use ArcPro to make a map. This class is about thoroughly critiquing and refining the maps to be of exceptional quality. Exceptional is defined as going beyond what typical map makers or other graphic designers will do. 
+
+No large map products or posters are made in this class. Rather, maps are produced that meet the criteria of graphical excellence and situated in the context of an analytical report. These reports are the focus of this course because those are the primary products students will create when they enter their careers. Students will produce publication-quality maps and linked with supporting analytical narrative that will mimic more closely what they will produce in their careers. 
+
 
 Students will be expected to:
 
