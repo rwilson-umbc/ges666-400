@@ -39,9 +39,11 @@ This course has prerequisites: students are expected to have taken [PPD534](http
 
 
 
-# Learning Objectives
+# Learning Objectives and Outcomes are:
 
-  - Identify the four main theories of geography,
+  - identify the four main theories of geography,
+  - discover how geography integrates into statistics,
+  - discern the difference between the primary mapping classification schemes,
   - make maps that meet the standards of graphical excellence,
   - Model and analyze urban networks and flows
   - Train and interpret various kinds of urban models
