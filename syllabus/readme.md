@@ -1,18 +1,18 @@
-**Advanced Urban Analytics**
+**Just Maps - Critical & Ethical Aspects of Mapping**
 
-USC PPD599 / Spring 2023 / 4 units
+UMBC GES 666 / Fall 2023 / 3 Credit UNits
 
 
 
 # Instructor Info
 
-[Prof. Geoff Boeing](https://geoffboeing.com)
+[Prof. Ron Wilson ]([https://geoffboeing.com](https://professionalprograms.umbc.edu/geographic-information-systems/gis-faculty/))
 
-Email: boeing at usc dot edu
+Email: rwilsopn@umbc.edu
 
-Office hours: Wed 13:00-14:00, RGL 301A
+Office Hours: By Appointment
 
-Classroom location and meeting times are [listed online](https://classes.usc.edu/)
+Classroom Location and meeting times are [listed online](https://classes.usc.edu/)
 
 
 
