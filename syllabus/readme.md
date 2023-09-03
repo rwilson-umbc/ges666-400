@@ -1,10 +1,10 @@
 **Just Maps - Critical & Ethical Aspects of Mapping**
 
-UMBC GES 666 / Fall 2023 / 3 Credit UNits
+UMBC GES 666 / Fall 2023 / 3 Credits
 
 
 
-# Instructor Info
+# Instructor
 
 [Prof. Ron Wilson ]([https://geoffboeing.com](https://professionalprograms.umbc.edu/geographic-information-systems/gis-faculty/))
 
@@ -14,9 +14,9 @@ Office Hours: By Appointment
 
 Classroom Location: Sondheiem 007 - GIS Lab [details online]([https://classes.usc.edu/](https://umbc.edu/about/visit/directions/#campus-maps))
 
-# Teaching Assistant Info
+# Teaching Assistant
 
-[Jpe Gallagher ]([https://geoffboeing.com](https://farepaygeo.github.io/))
+[Jpe Gallagher ]([[https://geoffboeing.com](https://farepaygeo.github.io/)](https://farepaygeo.github.io/))
 
 Email: joesphg3@umbc.edu
 
@@ -30,12 +30,12 @@ This course provides you with a modern toolkit and skills for urban data science
 Students will be expected to:
 
   - Complete and be prepared to discuss all assigned readings
-  - Attend the lecture
-  - Complete and submit assignments
+  - Attend the lectures in-person and virtual when designated
+  - Complete and submit all assignments 
   - Present a mini-lecture on an applied method
   - Prepare a short conference paper and presentation
 
-This course has prerequisites: students are expected to have taken [PPD534](https://github.com/gboeing/ppd534) or an equivalent introductory course on basic Python, stats, and spatial concepts. These prerequisites will not be covered from the ground-up as you are expected to be already familiar with them. This course requires patience and practice: learning to code will take lots of trial-and-error, self-direction, repetition, and experimentation on your part. You will get out of it what you are willing to put into it. Please note that this syllabus is a living document and may be updated by the instructor during the semester as needed.
+This course has no prerequisites: students are not expected to have any background or exeperience with mapping, statistics, programming, nor spatial concepts. These aspects will not be covered from the ground-up as you are expected to be already familiar with them. This course requires patience and practice: learning to code will take lots of trial-and-error, self-direction, repetition, and experimentation on your part. You will get out of it what you are willing to put into it. Please note that this syllabus is a living document and may be updated by the instructor during the semester as needed.
 
 
 
