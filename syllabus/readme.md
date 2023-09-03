@@ -16,7 +16,7 @@ Classroom Location and meeting times are [listed online](https://classes.usc.edu
 
 # Teaching Assistant Info
 
-[Jpe Gallagher ]([https://geoffboeing.com](https://professionalprograms.umbc.edu/geographic-information-systems/gis-faculty/))
+[Jpe Gallagher ]([https://geoffboeing.com](https://farepaygeo.github.io/))
 
 Email: joesphg3@umbc.edu
 
@@ -41,8 +41,8 @@ This course has prerequisites: students are expected to have taken [PPD534](http
 
 # Learning Objectives
 
-  - Understand the evolution and applications of urban analytics and urban science
-  - Write efficient code to collect, organize, analyze, and visualize urban data
+  - Identify the four main theories of geography,
+  - make maps that meet the standards of graphical excellence,
   - Model and analyze urban networks and flows
   - Train and interpret various kinds of urban models
 
