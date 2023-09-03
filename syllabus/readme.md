@@ -8,11 +8,11 @@ UMBC GES 666 / Fall 2023 / 3 Credit UNits
 
 [Prof. Ron Wilson ]([https://geoffboeing.com](https://professionalprograms.umbc.edu/geographic-information-systems/gis-faculty/))
 
-Email: rwilsop@umbc.edu
+Email: rwilson@umbc.edu
 
 Office Hours: By Appointment
 
-Classroom Location and meeting times are [listed online](https://classes.usc.edu/)
+Classroom Location: Sondheiem 007 - GIS Lab [details online]([https://classes.usc.edu/](https://umbc.edu/about/visit/directions/#campus-maps))
 
 # Teaching Assistant Info
 
