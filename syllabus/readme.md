@@ -8,7 +8,7 @@ UMBC GES 666 / Fall 2023 / 3 Credit UNits
 
 [Prof. Ron Wilson ]([https://geoffboeing.com](https://professionalprograms.umbc.edu/geographic-information-systems/gis-faculty/))
 
-Email: rwilsopn@umbc.edu
+Email: rwilsop@umbc.edu
 
 Office Hours: By Appointment
 
