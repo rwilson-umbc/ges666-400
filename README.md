@@ -2,9 +2,9 @@
 [![Build Status](https://github.com/gboeing/ppd599/workflows/tests/badge.svg?branch=main)](https://github.com/gboeing/ppd599/actions?query=workflow%3A%22tests%22)
 
 
-# PPD599: Advanced Urban Analytics
+# GES 666: Just Maps - Critical & Ethical Aspects of Mapping
 
-This is the second part of a two-course series on **urban data science** that I teach at the **University of Southern California**'s Department of Urban Planning and Spatial Analysis.
+This is the one of a two-course introductory set of courses in the UMBC GIS Program that simultaneously introduce students to the tecnical, scientific, and philosophical facets that underpin the program.
 
 This course series takes a computational social science approach to working with urban data. It uses Python and Jupyter notebooks to introduce coding and statistical methods that students can reproduce and experiment with in the cloud. The series as a whole presumes no prior knowledge as it introduces coding, stats, spatial analysis, and applied machine learning from the ground up, but PPD599 assumes you have completed [PPD534](https://github.com/gboeing/ppd534) or its equivalent.
 
