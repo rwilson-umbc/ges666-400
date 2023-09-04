@@ -4,8 +4,9 @@
 
 # GES 666: Just Maps - Critical & Ethical Aspects of Mapping
 
-This is the one of a two-course introductory set of courses in the UMBC GIS Program that simultaneously introduce students to the tecnical, scientific, and philosophical facets that underpin the program.
+This is the one of a two-course introductory set of courses in the UMBC GIS Program that simultaneously introduce students to the tecnical, scientific, and philosophical facets that underpin the program. The companion course to GES 666 Just Maps is [GES 668: Building Spatial Datasets](https://professionalprograms.umbc.edu/geographic-information-systems/gis-course-descriptions/).
 
+The two course 
 This course series takes a computational social science approach to working with urban data. It uses Python and Jupyter notebooks to introduce coding and statistical methods that students can reproduce and experiment with in the cloud. The series as a whole presumes no prior knowledge as it introduces coding, stats, spatial analysis, and applied machine learning from the ground up, but PPD599 assumes you have completed [PPD534](https://github.com/gboeing/ppd534) or its equivalent.
 
 
