@@ -44,7 +44,7 @@ Students will be expected to:
   - Present a mini-lecture on an applied method
   - Prepare a short conference paper and presentation
 
-This course has no prerequisites: students are not expected to have any background or exeperience with mapping, statistics, programming, nor spatial concepts. These aspects will not be covered from the ground-up as you are expected to be already familiar with them. This course requires patience and practice: learning to code will take lots of trial-and-error, self-direction, repetition, and experimentation on your part. You will get out of it what you are willing to put into it. Please note that this syllabus is a living document and may be updated by the instructor during the semester as needed.
+This course has no prerequisites: students are not expected to have any background or exeperience with mapping, statistics, programming, nor spatial concepts. This course requires patience and practice: learning to code will take lots of trial-and-error, self-direction, repetition, and experimentation on your part. You will get out of it what you are willing to put into it. Please note that this syllabus is a living document and may be updated by the instructor during the semester as needed.
 
 
 
