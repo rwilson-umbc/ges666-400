@@ -1,4 +1,4 @@
-# Class 1: Critical Cartography and its relation to GIS
+# Class 1: Critical Cartography and its Relation to GIS
 
 In this module, we introduce the course, the syllabus, the semester's expectations and schedule, and set up the computing environment for coursework. Then we introduce the foundational tools underlying much of the modern data science world: package management, version control, and computational notebooks.
 
